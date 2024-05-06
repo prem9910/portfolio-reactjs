@@ -1,0 +1,25 @@
+
+[
+    {
+      "title": "Web design",
+      "icon": "/images/icon-design.svg",
+      "description": "The most modern and high-quality design made at a professional level."
+    },
+    {
+      "title": "Web development",
+      "icon": "/images/icon-dev.svg",
+      "description": "High-quality development of sites at the professional level."
+    },
+   
+    {
+      "title": "Graphic Design",
+      "icon": "/images/icon-design.svg",
+      "description": "Designing visually compelling graphics for various digital and print mediums."
+    },
+    {
+      "title": "UI/UX Design",
+      "icon": "/images/icon-design.svg",
+      "description": "Crafting user-centric and aesthetically pleasing interfaces for optimal user experience."
+    }
+  ]
+  
